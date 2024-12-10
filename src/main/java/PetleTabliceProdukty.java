@@ -44,5 +44,6 @@ public class PetleTabliceProdukty {
         //Program pyta, jaki produkt wybierasz
         //Program podaje cene wybranego produkty
         //Program zamyka się jeśli wpiszemy "koniec"
+        //Program zapamietuje jakie produkty wybrałeś i drukuje rachunek
     }
 }
